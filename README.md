@@ -54,7 +54,7 @@ In this section the results about the correlation and causation test are shown.
 In this figure, positive values of time delay means that we are considering the correlation between the past values of the co2 emission and the future values of 
 the temperature anomalies, while for negative values of time delay we are considering the correlation of the past values of temperature anomalies and the future 
 values of the co2 emission. The correlation is unbalanced toward the positive time delay values: this results may lead us to suspect that there is a causality 
-between co2 and temperature.
+between co2 and temperature anomalies.
 
 
 ### Granger test for causality

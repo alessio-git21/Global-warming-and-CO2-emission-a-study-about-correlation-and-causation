@@ -42,10 +42,17 @@ This is the time series that shows the annual mean number of sunspots. The perio
 In this section the results about the correlation and causation test are shown.
 
 ### Spearman rank order correlation test
+
+CO2 EMISSION AND TEMPERATURE ANOMALIES CORRELATION:
 * Spearman correlation degree: 0.87
 * p value: 5.866665028465032e-44
 
+SOLAR ACTIVITY AND TEMPERATURE ANOMALIES CORRELATION
+* Spearman correlation degree: 0.13
+* p value: 0.12
+
 ### Mutual information
+The mutual information between the CO2 emission and the temperature anomalies results to be significative:
 * Mutual info value: 1.1
 * Significance level: 1%
 

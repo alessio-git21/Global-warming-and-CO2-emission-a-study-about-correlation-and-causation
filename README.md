@@ -36,6 +36,7 @@ The clearest visible sign of solar activity are these sunspots. A sunspot looks 
 These are some characteristics of sunspots. Their temperature is 1500 K below that of its surrounding, that is about 6000 K 
 and that’s the reason why we see this region as dark regions. The low temperature in due to the fact that in these regions there is a strong magnetic field  that inhibits convective energy transport from the central region. When solar surface shows a large number of spots the Sun is going through a phase of greater activity and emits more energy into the surrounding space. The number of sunspots varies with an average period of about 11 years. 
 This is the time series that shows the annual mean number of sunspots. The period of 11 year is evident. Data come from the Solar Influences Data analysis Center, a part of Royal observatory of Belgium.
+
 ![download](https://github.com/alessio-git21/Global-warming-and-CO2-emission-a-study-about-correlation-and-causation/assets/100300894/108a56d6-d011-449f-8720-b4d2a6380256)
 
 ## Results

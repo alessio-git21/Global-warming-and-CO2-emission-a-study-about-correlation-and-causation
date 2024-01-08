@@ -6,7 +6,7 @@ so my goal is to have a confirmation of this through my personal analysis.
 The analysis demonstrated the causal relationship between the CO2 emission from human activities and the anomalous increase 
 in the Earth’s average temperature with 90% confidence.
 Concepts used:
-* spearman rank order correlation test
+* Spearman rank order correlation test
 * mutual information
 * time series stationarity: the Dickey-Fuller test
 * Granger test for causality
@@ -40,7 +40,7 @@ This is the time series that shows the annual mean number of sunspots. The perio
 ![download](https://github.com/alessio-git21/Global-warming-and-CO2-emission-a-study-about-correlation-and-causation/assets/100300894/108a56d6-d011-449f-8720-b4d2a6380256)
 
 ## Results
-In this section the results about the correlation and causation test are shown.
+In this section the results about the correlation and causation tests are shown.
 
 ### Spearman rank order correlation test
 
